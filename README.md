@@ -77,7 +77,7 @@ Sofía (ventas), Andrés (guardián), Ana (agenda), Lucas (video), Vigilante y R
 [social-media-skills/skills](https://github.com/social-media-skills/skills): `social-proof-and-testimonials`, `before-after-and-transformation`, `instagram-seo`, `social-selling-and-dm`, `crisis-and-moderation`. Y [Hainrixz/claude-ads](https://github.com/Hainrixz/claude-ads) para auditar la pauta.
 
 ### 5 sistemas para hacer videos sin cámara ni editor
-[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes): `motion-graphics`, `faceless-explainer`, `reverse-any-video`, `hyperframes-audio` y `hyperframes-cli`.
+[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes): `hyperframes`, `style-sampling`, `reverse-any-video`, `media-use` y `hyperframes-cli`.
 
 ### 8 cosas que automaticé en mi agencia antes de Navidad
 Publicaciones programadas, aviso de publicación, mensajes de seguimiento, plantillas de WhatsApp, reporte semanal, revisión diaria, respaldo cada noche y alertas por Telegram. Para armarlas: [Superpowers](https://github.com/obra/superpowers) y [Skills de Anthropic](https://github.com/anthropics/skills).
